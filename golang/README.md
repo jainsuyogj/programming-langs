@@ -115,3 +115,7 @@ Arrays.go
 
         value := <- chaName
         Get the value from the channel
+
+
+#Go by example .com
+
